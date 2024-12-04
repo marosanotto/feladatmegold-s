@@ -10,3 +10,4 @@ Dokumentumkezelés
 Táblázatkezelés
 Adatbázis-kezelés
 Programozás
+SZóbeli vizsgarész központi vizsgáztatók előtt történik
